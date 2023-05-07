@@ -1,8 +1,8 @@
 [
   "obsidian-advanced-uri",
   "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-emoji-toolbar",
-  "execute-code",
+  "folder-note-core",
   "alx-folder-note",
-  "folder-note-core"
+  "obsidian-kanban",
+  "code-emitter"
 ]

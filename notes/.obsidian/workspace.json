@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab71cf30359d327c",
+        "id": "1a7e56992a279841",
         "type": "tabs",
         "children": [
           {
-            "id": "c033087a519a4822",
+            "id": "5873390c8491eb17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactoring/5. Code Smells.md",
+                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,16 +32,6 @@
         "id": "6a9c2a71da307c31",
         "type": "tabs",
         "children": [
-          {
-            "id": "8cc86c4388e93597",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "f765e20a4e5df0be",
             "type": "leaf",
@@ -64,13 +54,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "6ec46ec71d451bab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "9ad47ab556f3c359",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactoring/5. Code Smells.md",
+                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactoring/5. Code Smells.md",
+                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactoring/5. Code Smells.md"
+                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md"
               }
-            }
-          },
-          {
-            "id": "120553aca58fc9bf",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
             }
           },
           {
@@ -143,6 +135,14 @@
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a5abb280a3281ac",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
               "state": {}
             }
           }
@@ -166,48 +166,54 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b37e0bde47dba06d",
+  "active": "5873390c8491eb17",
   "lastOpenFiles": [
-    "Long Methods.md",
-    "Refactoring/5. Code Smells.md",
-    "Refactoring/Images/Code smell.png",
-    "Refactoring/Images/Code smell 2.png",
-    "Refactoring/Images/Clean code.png",
-    "Long Method.md",
-    "Refactoring/5. Code Smells",
-    "Refactoring/4. How to refactor?.md",
+    "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/index.ts",
+    "Design Patterns/Creational Patterns/Abstract Factory 🪄/Abstract Factory 🪄.md",
+    "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md",
+    "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example",
+    "Stay Focused/Stay Focused.md",
+    "Design Patterns/Behavioral Patterns/Visitor/Visitor.md",
+    "Design Patterns/Behavioral Patterns/Strategy ♟️/Strategy ♟️.md",
+    "Design Patterns/Behavioral Patterns/State 🏢/State 🏢.md",
+    "Design Patterns/Behavioral Patterns/Observer 👀/Observer 👀.md",
+    "Design Patterns/Behavioral Patterns/Memento/Memento.md",
+    "Design Patterns/Behavioral Patterns/Mediator/Mediator.md",
+    "Design Patterns/Behavioral Patterns/Iterator/Iterator.md",
+    "Design Patterns/Behavioral Patterns/Command/Command.md",
+    "Design Patterns/Behavioral Patterns/Behavioral Patterns.md",
+    "Stay Focused/Untitled Kanban.md",
+    "Stay Focused",
+    "Design Patterns/Design Patterns.md",
+    "Design Patterns/Structural Patterns/Structural Patterns.md",
+    "Design Patterns/Structural Patterns/Composite/Composite.md",
+    "Design Patterns/Structural Patterns/Decorator/Decorator.md",
+    "Design Patterns/Structural Patterns/Facade/Facade.md",
+    "Design Patterns/Structural Patterns/Flyweight 🐥/Flyweight 🐥.md",
     "Testing/Behavior-driven development.md",
-    "Testing",
-    "Refactoring/3. When to refactor?.md",
-    "Chrome Clippings.md",
-    "When to refactor.md",
-    "Refactoring/3. Technical debt.md",
-    "Refactoring/2. Clean code.md",
+    "Refactoring/4. How to refactor?.md",
     "Refactoring/1. Refactoring clean your code.md",
-    "1.md",
-    "Untitled.canvas",
-    "07.05.2023.md",
-    "Refactoring/Images/Refactoring.png",
-    "Refactoring/Images/Refactoring process.png",
-    "Refactoring/Images/Refactor techniques.png",
-    "Refactoring/Images/Pasted image 20230507111635.png.md",
-    "Pasted image 20230507115703.png",
-    "Refactoring/Images",
-    "Pasted image 20230507111635.png",
-    "Refactoring/Technical Debt",
-    "Refactoring",
-    "Refactoring.md",
-    "Obsidian Clipper 20230507110100.md",
-    "Obsidian Clipper.md",
-    "Refactoring clean your code-07.05.2023.md",
-    "Obsidian Clipper-07.05.2023.md",
-    "Obsidian Clipper-07.05.2023 103618.md",
-    "Refactoring clean your code-07.05.2023 103656.md",
-    "Refactoring clean your code-07.05.2023 103707.md",
-    "Obsidian Clipper-07.05.2023 103613.md",
-    "Design.md",
-    "notes/Untitled.md",
-    "notes/Untitled 1.md",
-    "notes"
+    "Chain of Responsibility.md",
+    "Attachments/Refactoring.png",
+    "Attachments/Refactoring process.png",
+    "Attachments/Refactor techniques.png",
+    "Attachments/Pasted image 20230507150440.png",
+    "Attachments/Pasted image 20230507150334.png",
+    "Attachments/Pasted image 20230507150252.png",
+    "Attachments/Code smell.png",
+    "Attachments/Code smell 2.png",
+    "Attachments/Clean code.png",
+    "Attachments",
+    "Design Patterns/Attachments/Refactoring process.png",
+    "Design Patterns/Behavioral Patterns/Visitor",
+    "Design Patterns/Behavioral Patterns/Template Method/Template Method.md",
+    "Design Patterns/Behavioral Patterns/Template Method",
+    "Design Patterns/Behavioral Patterns/Observer 👀",
+    "Design Patterns/Behavioral Patterns/Strategy ♟️",
+    "Design Patterns/Behavioral Patterns/State 🏢",
+    "Design Patterns/Behavioral Patterns/Memento",
+    "Design Patterns/Behavioral Patterns/Mediator",
+    "Design Patterns/Structural Patterns/Proxy/Proxy.md",
+    "Untitled.canvas"
   ]
 }

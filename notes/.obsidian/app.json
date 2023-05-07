@@ -1,5 +1,8 @@
 {
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "attachmentFolderPath": "Attachments",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }
