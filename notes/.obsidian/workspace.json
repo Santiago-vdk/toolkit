@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7e56992a279841",
+        "id": "66adfa706adba8d6",
         "type": "tabs",
         "children": [
           {
-            "id": "5873390c8491eb17",
+            "id": "1f726c2fb8b5b161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md",
+                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Abstract Factory 🪄.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md",
+                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Abstract Factory 🪄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md",
+                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Abstract Factory 🪄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md"
+                "file": "Design Patterns/Creational Patterns/Abstract Factory 🪄/Abstract Factory 🪄.md"
               }
             }
           },
@@ -166,13 +166,30 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5873390c8491eb17",
+  "active": "1f726c2fb8b5b161",
   "lastOpenFiles": [
-    "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/index.ts",
-    "Design Patterns/Creational Patterns/Abstract Factory 🪄/Abstract Factory 🪄.md",
+    "Design Patterns/Creational Patterns/Factory Method 🏭/Factory Method 🏭.md",
+    "Attachments/Pasted image 20230507211241.png",
+    "Attachments/Pasted image 20230507211007.png",
+    "Attachments/Pasted image 20230507210948.png",
     "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example/Example.md",
-    "Design Patterns/Creational Patterns/Abstract Factory 🪄/Example",
     "Stay Focused/Stay Focused.md",
+    "Attachments/Pasted image 20230507150252.png",
+    "Attachments/Refactoring process.png",
+    "Attachments/Clean code.png",
+    "Attachments/Pasted image 20230507210227.png",
+    "Design Patterns/Creational Patterns/Abstract Factory 🪄/Abstract Factory 🪄.md",
+    "Users/vdek/source/repo/toolkit/angular/design-patterns/projects/abstract-factory/src/app/app.component.ts.md",
+    "Users/vdek/source/repo/toolkit/angular/design-patterns/projects/abstract-factory/src/app",
+    "Users/vdek/source/repo/toolkit/angular/design-patterns/projects/abstract-factory/src",
+    "Users/vdek/source/repo/toolkit/angular/design-patterns/projects/abstract-factory",
+    "Users/vdek/source/repo/toolkit/angular/design-patterns/projects",
+    "Users/vdek/source/repo/toolkit/angular/design-patterns",
+    "Users/vdek/source/repo/toolkit/angular",
+    "Users/vdek/source/repo/toolkit",
+    "Users/vdek/source/repo",
+    "Users/vdek/source",
+    "Users/vdek",
     "Design Patterns/Behavioral Patterns/Visitor/Visitor.md",
     "Design Patterns/Behavioral Patterns/Strategy ♟️/Strategy ♟️.md",
     "Design Patterns/Behavioral Patterns/State 🏢/State 🏢.md",
@@ -183,7 +200,6 @@
     "Design Patterns/Behavioral Patterns/Command/Command.md",
     "Design Patterns/Behavioral Patterns/Behavioral Patterns.md",
     "Stay Focused/Untitled Kanban.md",
-    "Stay Focused",
     "Design Patterns/Design Patterns.md",
     "Design Patterns/Structural Patterns/Structural Patterns.md",
     "Design Patterns/Structural Patterns/Composite/Composite.md",
@@ -195,25 +211,8 @@
     "Refactoring/1. Refactoring clean your code.md",
     "Chain of Responsibility.md",
     "Attachments/Refactoring.png",
-    "Attachments/Refactoring process.png",
     "Attachments/Refactor techniques.png",
     "Attachments/Pasted image 20230507150440.png",
-    "Attachments/Pasted image 20230507150334.png",
-    "Attachments/Pasted image 20230507150252.png",
-    "Attachments/Code smell.png",
-    "Attachments/Code smell 2.png",
-    "Attachments/Clean code.png",
-    "Attachments",
-    "Design Patterns/Attachments/Refactoring process.png",
-    "Design Patterns/Behavioral Patterns/Visitor",
-    "Design Patterns/Behavioral Patterns/Template Method/Template Method.md",
-    "Design Patterns/Behavioral Patterns/Template Method",
-    "Design Patterns/Behavioral Patterns/Observer 👀",
-    "Design Patterns/Behavioral Patterns/Strategy ♟️",
-    "Design Patterns/Behavioral Patterns/State 🏢",
-    "Design Patterns/Behavioral Patterns/Memento",
-    "Design Patterns/Behavioral Patterns/Mediator",
-    "Design Patterns/Structural Patterns/Proxy/Proxy.md",
     "Untitled.canvas"
   ]
 }

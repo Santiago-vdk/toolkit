@@ -1,3 +1,0 @@
-```TypeScript
-console.log('test');
-```
